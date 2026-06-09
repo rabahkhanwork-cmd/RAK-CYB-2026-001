@@ -278,3 +278,4 @@ This repository is provided for **educational and defensive purposes only**. All
 
 > *"The campaign documented in this report is not an anomaly — it is a preview of the mobile threat landscape through 2030 and beyond."*
 > — Chapter 1, Conclusion
+<meta name="google-site-verification" content="cAXS25W3ZKYCiFr2W-UT3oEII6aJQ4Ak03gpmxr4Rx8" />
