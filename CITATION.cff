@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this research, please cite it as below."
+authors:
+  - family-names: Khan
+    given-names: Rabah
+    alias: rabahkhanwork-cmd
+title: "RAK-CYB-2026-001: Anatomy of a Sophisticated Android RAT Campaign — DSU/GSI Multi-Environment Infrastructure, Baseband Diagnostic Exploitation, and Cross-Border C2"
+version: 1.0.0
+date-released: 2026-06-09
+url: "https://github.com/rabahkhanwork-cmd/RAK-CYB-2026-001"
+license: CC-BY-SA-4.0
+keywords:
+  - android
+  - cybersecurity
+  - forensics
+  - malware-analysis
+  - mobile-security
+  - dsu
+  - gsi
+  - baseband
+  - qualcomm
+  - device-cloning
+  - incident-response
+  - threat-intelligence
+abstract: "A detailed forensic case study documenting a 600+ day sophisticated Android RAT campaign targeting a single victim device (Xiaomi 11T Pro, codename vili). The campaign involved multi-environment attack infrastructure using DSU/GSI installations, Magisk/LSPosed root persistence, baseband diagnostic exploitation via QXDM, device cloning (9 unauthorized clones), and cross-border C2 infrastructure spanning Malaysia and Pakistan. This research documents novel attack techniques, forensic methodology, legal frameworks, and defensive countermeasures."
