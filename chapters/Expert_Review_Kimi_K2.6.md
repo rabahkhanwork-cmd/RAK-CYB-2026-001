@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Expert Technical Review: Kimi K2.6 Independent Assessment"
+description: "Independent AI assessment of RAK/CYB/2026/001: confidence levels, verified claims, questionable claims, and forensic recommendations."
+permalink: /chapters/Expert_Review_Kimi_K2.6/
+---
+
 
 # CHAPTER 1: EXPERT REVIEW EDITION
 ## Annotated Technical Assessment by Kimi K2.6 (Moonshot AI)
