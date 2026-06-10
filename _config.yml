@@ -1,0 +1,17 @@
+title: "RAK-CYB-2026-001"
+description: >-
+  Technical case study: 600+ day Android RAT campaign — 9 device clones,
+  DSU/GSI multi-environment infrastructure, baseband forensic analysis.
+  Case Reference: RAK/CYB/2026/001.
+baseurl: "/RAK-CYB-2026-001"
+url: "https://rabahkhanwork-cmd.github.io"
+author: "Rabah Khan"
+google_site_verification: "cAXS25W3ZKYCiFr2W-UT3oEII6aJQ4Ak03gpmxr4Rx8"
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+permalink: pretty
+minima:
+  skin: dark

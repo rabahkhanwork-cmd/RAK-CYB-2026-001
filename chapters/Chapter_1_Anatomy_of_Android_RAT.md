@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Chapter 1: Anatomy of a Sophisticated Android RAT Campaign"
+description: "600+ day Android RAT campaign: 9 device clones, DSU/GSI infrastructure, baseband exploitation. Case RAK/CYB/2026/001."
+permalink: /chapters/Chapter_1_Anatomy_of_Android_RAT/
+---
+
 
 # CHAPTER 1: ANATOMY OF A SOPHISTICATED ANDROID RAT CAMPAIGN
 ## A Technical Case Study in Multi-Vector Mobile Compromise with DSU/GSI Infrastructure and Baseband Forensic Analysis
