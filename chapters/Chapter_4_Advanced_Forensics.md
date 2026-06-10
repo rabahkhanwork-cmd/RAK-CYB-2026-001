@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Chapter 4: Advanced Forensic Techniques for Mobile Device Investigation"
+description: "DSU/GSI forensic analysis, baseband dump procedures, QXDM detection, and tool comparison matrix for advanced mobile compromise."
+permalink: /chapters/Chapter_4_Advanced_Forensics/
+---
+
 
 # CHAPTER 4: ADVANCED FORENSIC TECHNIQUES FOR MOBILE DEVICE INVESTIGATION
 ## Specialized Procedures for DSU/GSI Infrastructure and Baseband-Level Compromise
