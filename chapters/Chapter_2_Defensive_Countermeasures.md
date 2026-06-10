@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Chapter 2: Defensive Countermeasures and Recovery Protocols"
+description: "Post-compromise remediation for baseband-level and DSU/GSI attack infrastructure: device quarantine, account isolation, network sanitization."
+permalink: /chapters/Chapter_2_Defensive_Countermeasures/
+---
+
 
 # CHAPTER 2: DEFENSIVE COUNTERMEASURES AND RECOVERY PROTOCOLS
 ## Post-Compromise Remediation for Baseband-Level and DSU/GSI Attack Infrastructure
