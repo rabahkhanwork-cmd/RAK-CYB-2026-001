@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Chapter 3: Legal Framework and Law Enforcement Engagement"
+description: "Malaysia vs Pakistan prosecution pathways, cross-border coordination, evidence admissibility, chain of custody for mobile cybercrime."
+permalink: /chapters/Chapter_3_Legal_Framework/
+---
+
 
 # CHAPTER 3: LEGAL FRAMEWORK AND LAW ENFORCEMENT ENGAGEMENT
 ## Prosecution Pathways for Cross-Border Mobile Cybercrime in Malaysia and Pakistan
